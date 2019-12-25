@@ -11,6 +11,18 @@
         <content type="html"><![CDATA[<p>##这是我第一次写</p>]]></content>
       
       
+      <categories>
+          
+          <category> 后台 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> .net </tag>
+            
+        </tags>
       
     </entry>
     
@@ -26,18 +38,14 @@
       
       <categories>
           
-          <category> 分类1 </category>
-          
-          <category> 分类2 </category>
+          <category> 数据库 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 标签1 </tag>
-            
-            <tag> 标签2 </tag>
+            <tag> sql server </tag>
             
         </tags>
       
